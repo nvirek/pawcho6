@@ -2,12 +2,12 @@
 ## Logowanie do konta GitHub
 <img width="945" height="468" alt="image" src="https://github.com/user-attachments/assets/235b0e86-cb6f-4118-af7a-226b757a3139" />
 
-### Uruchomienie agenta SSH i dodanie klucza prywatnego
-<img width="720" height="135" alt="image" src="https://github.com/user-attachments/assets/b4bdb26a-af50-4a0a-bae9-e832ce24e49b" />
-
 ### Wejście do folderu projektu i globalne ustawienie danych autora
 <img width="636" height="138" alt="image" src="https://github.com/user-attachments/assets/b2a7bced-8b43-4624-89a2-65ade97948c9" />
 <img width="683" height="134" alt="image" src="https://github.com/user-attachments/assets/9bd82c02-7899-4714-a383-10f228d28252" />
+
+### Uruchomienie agenta SSH i dodanie klucza prywatnego
+<img width="720" height="135" alt="image" src="https://github.com/user-attachments/assets/b4bdb26a-af50-4a0a-bae9-e832ce24e49b" />
 
 ### Przygotowanie lokalnego repozytorium i zapisanie plików zawierających rozwiązanie zadania 5
 <img width="775" height="406" alt="image" src="https://github.com/user-attachments/assets/9aef1dff-f925-4dec-8dd8-11caeea5bba6" />

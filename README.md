@@ -24,6 +24,16 @@ docker build --no-cache --ssh default -t ghcr.io/nvirek/lab6:v1 .
 ### Przesłanie obrazu oznaczonego tagiem v1 do GitHub
 <img width="763" height="292" alt="image" src="https://github.com/user-attachments/assets/536c1c9b-ab15-49a5-a193-81b21ccc6a8c" />
 
+### Weryfikacja pomyślnej publikacji obrazu w rejestrze GitHub z widocznym tagiem v1 oraz statusem Public
+<img width="399" height="116" alt="image" src="https://github.com/user-attachments/assets/74896c3c-4ab4-4d98-870f-869d8991913d" />
+
+### Łączenie opublikowanego obrazu lab6 z repozytorium źródłowym pawcho6
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/71021b4c-29a2-4e50-b449-e4e432cf85e3" />
+
+### Przesłanie zaktualizowanej wersji pliku Dockerfile do repozytorium GitHub
+<img width="945" height="455" alt="image" src="https://github.com/user-attachments/assets/1d031062-97b2-49c7-b828-9f25e35491ea" />
+
+
 
 
 

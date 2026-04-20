@@ -24,6 +24,9 @@ docker build --no-cache --ssh default -t ghcr.io/nvirek/lab6:v1 .
 ```
 <img width="795" height="635" alt="image" src="https://github.com/user-attachments/assets/f69faa0b-6a53-40ed-a51a-d094d7c7ce6e" />
 
+### Uwierzytelnienie w rejestrze GitHub przy użyciu osobistego tokenu dostępu
+<img width="945" height="61" alt="image" src="https://github.com/user-attachments/assets/0c892ce6-2e89-4b02-914a-e7b38339f278" />
+
 ### Przesłanie obrazu oznaczonego tagiem v1 do GitHub
 <img width="763" height="292" alt="image" src="https://github.com/user-attachments/assets/536c1c9b-ab15-49a5-a193-81b21ccc6a8c" />
 

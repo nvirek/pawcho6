@@ -15,6 +15,9 @@
 ### Utworzenie publicznego repozytorium na GitHub i przesłanie do niego plików
 <img width="781" height="414" alt="image" src="https://github.com/user-attachments/assets/05206e3d-ca24-460c-9d47-03604cef5b07" />
 
+### Przesłanie zaktualizowanej wersji pliku Dockerfile do repozytorium GitHub
+<img width="945" height="455" alt="image" src="https://github.com/user-attachments/assets/1d031062-97b2-49c7-b828-9f25e35491ea" />
+
 ### Budowanie obrazu z wymuszonym brakiem pamięci podręcznej, wykorzystaniem kluczy SSH oraz nadaniem tagu v1
 ```
 docker build --no-cache --ssh default -t ghcr.io/nvirek/lab6:v1 .
@@ -30,8 +33,6 @@ docker build --no-cache --ssh default -t ghcr.io/nvirek/lab6:v1 .
 ### Łączenie opublikowanego obrazu lab6 z repozytorium źródłowym pawcho6
 <img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/71021b4c-29a2-4e50-b449-e4e432cf85e3" />
 
-### Przesłanie zaktualizowanej wersji pliku Dockerfile do repozytorium GitHub
-<img width="945" height="455" alt="image" src="https://github.com/user-attachments/assets/1d031062-97b2-49c7-b828-9f25e35491ea" />
 
 
 
